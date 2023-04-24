@@ -6,7 +6,7 @@ package org.uv.programa07;
 
 /**
  *
- * @author carte
+ * @author Patidifusa
  */
 import javax.persistence.Column;
 import javax.persistence.Entity;

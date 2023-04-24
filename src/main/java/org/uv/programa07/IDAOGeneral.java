@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *
- * @author carte
+ * @author Patidifusa
  */
 // t el tipo de dato del pojo y ID el tipo de dato del id
 public interface IDAOGeneral <T,ID>{

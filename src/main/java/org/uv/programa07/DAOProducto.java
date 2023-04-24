@@ -10,7 +10,7 @@ import org.hibernate.Transaction;
 
 /**
  *
- * @author carte
+ * @author Patidifusa
  */
 public class DAOProducto implements IDAOGeneral<Producto, Long> {
 

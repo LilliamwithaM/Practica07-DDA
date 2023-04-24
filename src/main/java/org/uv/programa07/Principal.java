@@ -7,7 +7,7 @@ package org.uv.programa07;
 
 /**
  *
- * @author carte
+ * @author Patidifusa
  */
 public class Principal extends javax.swing.JFrame {
 

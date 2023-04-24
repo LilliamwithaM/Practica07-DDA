@@ -12,7 +12,7 @@ import javax.swing.table.TableModel;
 
 /**
  *
- * @author carte
+ * @author Patidifusa
  */
 public class Productos extends javax.swing.JInternalFrame {
 

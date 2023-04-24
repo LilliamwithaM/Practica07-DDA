@@ -6,7 +6,7 @@ package org.uv.programa07;
 
 /**
  *
- * @author carte
+ * @author Patidifusa
  */
 
 import org.hibernate.HibernateException;
